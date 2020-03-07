@@ -20,3 +20,59 @@
     padding: 9px 25px;
     cursor: pointer;
 }
+/*--carosual part End--*/
+
+/*--category part Start--*/
+.cat1, .cat2, .cat3{
+    padding: 10px 30px;
+    border-radius: 10px;
+}
+.cat1{
+    background-image: linear-gradient(45deg, #CF5300, orange);
+}
+.cat2{
+    background-image: linear-gradient(45deg, #DB34DB, orchid);
+}
+.cat3{
+    background-image: linear-gradient(45deg, #016FB6, blue);
+}
+
+.categories h1{
+    color: white;
+}
+.categories img{
+    width: 100px;
+}
+/*--category part End--*/
+/*--shoes part Start--*/
+.card{
+    border: none;
+    box-shadow: 5px 5px 10px lightgray;
+    border-radius: 10px;
+}
+/*--shoes part End--*/
+
+/*--backpack part Start--*/
+
+.card-footer{
+    background-color: white;
+    border-top: none;
+    border-radius: 10px;
+}
+#subscribe{
+    height: 300px;
+}
+#subscribe h6{
+    color: gray;
+}
+footer{
+    color: gray;
+    text-align: center;
+}
+/*--backpack part End--*/
+/*--carosual part Start--*/
+/*--carosual part End--*/
+/*--carosual part Start--*/
+/*--carosual part End--*/
+/*--carosual part Start--*/
+/*--carosual part End--*/
